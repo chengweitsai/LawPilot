@@ -12,7 +12,6 @@
 │
 ├── period -> 純文字的檔的資料，處理的script 不在這個folder裡
 │   ├── period.code
-│   ├── period.txt
 │   ├── readme.md
 │   ├── te_bpe.src
 │   ├── te_bpe.tgt
