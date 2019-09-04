@@ -62,9 +62,9 @@ fairseq-interactive --path checkpoints/fconv_period/checkpoint_best.pt data-bin/
 
 # 可嘗試的句子
 
-因為上面tokenizer 我是用space, 所以要先透過其他方式斷詞 (要用耘志之前寫的另一份中文斷詞script)
+> 因為上面tokenizer 我是用space, 所以要先透過其他方式斷詞 (要用耘志之前寫的另一份中文斷詞script)
 
-手動輸入的話 暫時用人工斷詞
+> 手動輸入的話 暫時用人工斷詞
 
 
 
